@@ -1,2 +1,2 @@
 # sample-app
-ghp_5bb
+ghp_5
