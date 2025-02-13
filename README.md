@@ -1,2 +1,3 @@
 # sample-app
 ghp_5
+circleci_personal_access_token_1234567890abcdef1234567890abcdef
